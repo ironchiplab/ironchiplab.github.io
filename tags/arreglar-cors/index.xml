@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arreglar Cors on </title>
+    <link>http://blog.ironchip.net/tags/arreglar-cors/</link>
+    <description>Recent content in Arreglar Cors on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2019 21:22:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.ironchip.net/tags/arreglar-cors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como hacer un proxy rápido con tinyproxy para evitar problemas con CORS</title>
+      <link>http://blog.ironchip.net/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</link>
+      <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
+      
+      <guid>http://blog.ironchip.net/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</guid>
+      <description>Para evitarnos problemas con CORS, podemos utilizar un proxy para hacer las llamadas a nuestra API.</description>
+    </item>
+    
+  </channel>
+</rss>

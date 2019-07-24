@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ironchip on </title>
+    <link>http://blog.ironchip.net/categories/ironchip/</link>
+    <description>Recent content in Ironchip on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Apr 2019 19:50:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.ironchip.net/categories/ironchip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Golang y Docker para desarrollo y producción</title>
+      <link>http://blog.ironchip.net/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</link>
+      <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
+      
+      <guid>http://blog.ironchip.net/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</guid>
+      <description>Cada vez que un desarrollador se une a un nuevo proyecto, es necesario que este monte el entorno, instale librerias, dependencias, y configure las variables de entorno.</description>
+    </item>
+    
+    <item>
+      <title>03 Curso Go – Funciones</title>
+      <link>http://blog.ironchip.net/2019/04/10/03-curso-go-funciones/</link>
+      <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
+      
+      <guid>http://blog.ironchip.net/2019/04/10/03-curso-go-funciones/</guid>
+      <description>Curso Go: Parte 3 En esta tercera parte del blog vamos a aprender a crear funciones para que podamos crear aplicaciones mas complejas y modulares pudiendo así dar vida a nuestras ideas y nuevos proyectos.</description>
+    </item>
+    
+    <item>
+      <title>Conoce Ironchip: La vasca de ciberseguridad de la RSA Conference</title>
+      <link>http://blog.ironchip.net/2019/03/28/conoce-ironchip-la-vasca-de-ciberseguridad-de-la-rsa-conference/</link>
+      <pubDate>Thu, 28 Mar 2019 19:41:52 +0000</pubDate>
+      
+      <guid>http://blog.ironchip.net/2019/03/28/conoce-ironchip-la-vasca-de-ciberseguridad-de-la-rsa-conference/</guid>
+      <description>¿Qué es IronChip? IronChip Safety and Security, es una empresa de productos de ciberseguridad que nació como una compañía de IT de soluciones a medida para el sector fintech, desde la cual desarrollamos una plataforma de operaciones binarias, forex y compra/venta de futuros para la americana StockMarkets LLC.</description>
+    </item>
+    
+  </channel>
+</rss>

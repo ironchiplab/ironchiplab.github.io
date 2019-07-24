@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slices Go on </title>
+    <link>http://blog.ironchip.net/tags/slices-go/</link>
+    <description>Recent content in Slices Go on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Apr 2019 08:54:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.ironchip.net/tags/slices-go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>06 Curso Go – Computación Concurrente</title>
+      <link>http://blog.ironchip.net/2019/04/30/06-curso-go-computacion-concurrente/</link>
+      <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
+      
+      <guid>http://blog.ironchip.net/2019/04/30/06-curso-go-computacion-concurrente/</guid>
+      <description>Bienvenidos a una nueva entrega del curso, en este apartado, veremos goroutines (Go-rutinas) que son hilos de ejecución, Canales mecanismo de comunicación para envió y recepción de datos entre dos go-rutinas y Select para&amp;nbsp; escuchar simultáneamente en varios canales, por supuesto, una explicación de cada una de ellas&amp;nbsp; y propondremos&amp;nbsp; pequeñas pruebas, para que seáis vosotros quienes valoréis si realmente estamos afianzando los conceptos expuestos en esta parte del curso.</description>
+    </item>
+    
+  </channel>
+</rss>

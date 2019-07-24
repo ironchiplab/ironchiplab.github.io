@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I2p on </title>
+    <link>http://blog.ironchip.net/tags/i2p/</link>
+    <description>Recent content in I2p on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Apr 2019 22:11:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.ironchip.net/tags/i2p/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Navegando anonimamente con I2P</title>
+      <link>http://blog.ironchip.net/2019/04/23/navegando-anonimamente-con-i2p/</link>
+      <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
+      
+      <guid>http://blog.ironchip.net/2019/04/23/navegando-anonimamente-con-i2p/</guid>
+      <description>I2P es una capa de red que nos permite enviar mensajes de un punto a otro de forma segura.</description>
+    </item>
+    
+  </channel>
+</rss>
