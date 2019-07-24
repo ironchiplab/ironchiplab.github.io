@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel Martinez on </title>
-    <link>http://blog.ironchip.net/author/miguel-martinez/</link>
+    <link>https://ironchiplab.github.io/author/miguel-martinez/</link>
     <description>Recent content in Miguel Martinez on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jul 2019 10:42:10 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.ironchip.net/author/miguel-martinez/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironchiplab.github.io/author/miguel-martinez/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Guia Docker</title>
-      <link>http://blog.ironchip.net/2019/07/03/guia-docker/</link>
+      <link>https://ironchiplab.github.io/2019/07/03/guia-docker/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/07/03/guia-docker/</guid>
+      <guid>https://ironchiplab.github.io/2019/07/03/guia-docker/</guid>
       <description>Si no conoces Docker permiteme presentarte el futuro, docker es una herramienta que te encantará y dará el siguiente paso a tus proyectos.</description>
     </item>
     
     <item>
       <title>Ngrok- Exponer puerto local a Internet​</title>
-      <link>http://blog.ironchip.net/2019/06/10/ngrok/</link>
+      <link>https://ironchiplab.github.io/2019/06/10/ngrok/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/06/10/ngrok/</guid>
+      <guid>https://ironchiplab.github.io/2019/06/10/ngrok/</guid>
       <description>Os presentamos una herramienta super potente para developing Ngrok. Mediante 1 simple comando podremos obtener una url para acceder desde Internet.</description>
     </item>
     
     <item>
       <title>07 Curso Go -Gestión de proyectos-</title>
-      <link>http://blog.ironchip.net/2019/05/15/07-curso-go-gestion-de-proyectos/</link>
+      <link>https://ironchiplab.github.io/2019/05/15/07-curso-go-gestion-de-proyectos/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/05/15/07-curso-go-gestion-de-proyectos/</guid>
+      <guid>https://ironchiplab.github.io/2019/05/15/07-curso-go-gestion-de-proyectos/</guid>
       <description>En este nuevo nuevo curso de go aprenderemos el manejo de dependencias, creación de tests que analicen nuestro código y benchmark para obtener análisis de resultados.</description>
     </item>
     
     <item>
       <title>05 Curso Go – Errores</title>
-      <link>http://blog.ironchip.net/2019/04/24/05-curso-go-errores/</link>
+      <link>https://ironchiplab.github.io/2019/04/24/05-curso-go-errores/</link>
       <pubDate>Wed, 24 Apr 2019 11:33:58 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/04/24/05-curso-go-errores/</guid>
+      <guid>https://ironchiplab.github.io/2019/04/24/05-curso-go-errores/</guid>
       <description>Curso Go: Parte 5 Bienvenidos de nuevo, en esta entrega del curso vamos a aprender a trabajar con errores , parte fundamental en nuestras aplicaciones en GO si queremos proporcionar robustez a nuestro código y poder llevar un seguimiento de los errores que se producen durante la ejecución de nuestros programas.</description>
     </item>
     
     <item>
       <title>03 Curso Go – Funciones</title>
-      <link>http://blog.ironchip.net/2019/04/10/03-curso-go-funciones/</link>
+      <link>https://ironchiplab.github.io/2019/04/10/03-curso-go-funciones/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/04/10/03-curso-go-funciones/</guid>
+      <guid>https://ironchiplab.github.io/2019/04/10/03-curso-go-funciones/</guid>
       <description>Curso Go: Parte 3 En esta tercera parte del blog vamos a aprender a crear funciones para que podamos crear aplicaciones mas complejas y modulares pudiendo así dar vida a nuestras ideas y nuevos proyectos.</description>
     </item>
     
     <item>
       <title>01 Curso GO – Inicio Proyecto</title>
-      <link>http://blog.ironchip.net/2019/03/27/01-curso-go-inicio-proyecto/</link>
+      <link>https://ironchiplab.github.io/2019/03/27/01-curso-go-inicio-proyecto/</link>
       <pubDate>Wed, 27 Mar 2019 19:23:34 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/03/27/01-curso-go-inicio-proyecto/</guid>
+      <guid>https://ironchiplab.github.io/2019/03/27/01-curso-go-inicio-proyecto/</guid>
       <description>Curso Go: Parte 1 Deberías de considerar aprender a programar con Go.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git Save Password on </title>
-    <link>http://blog.ironchip.net/tags/git-save-password/</link>
+    <link>https://ironchiplab.github.io/tags/git-save-password/</link>
     <description>Recent content in Git Save Password on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Apr 2019 16:12:58 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.ironchip.net/tags/git-save-password/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironchiplab.github.io/tags/git-save-password/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Caching your password (temporarily) in Git</title>
-      <link>http://blog.ironchip.net/2019/04/15/git-credential-cache/</link>
+      <link>https://ironchiplab.github.io/2019/04/15/git-credential-cache/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/04/15/git-credential-cache/</guid>
+      <guid>https://ironchiplab.github.io/2019/04/15/git-credential-cache/</guid>
       <description>You can use a credential helper to tell Git to remember your git platform username and password.</description>
     </item>
     

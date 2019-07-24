@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Profiles on </title>
-    <link>http://blog.ironchip.net/tags/profiles/</link>
+    <link>https://ironchiplab.github.io/tags/profiles/</link>
     <description>Recent content in Profiles on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2019 13:00:39 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.ironchip.net/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironchiplab.github.io/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>07 Curso Go -Gestión de proyectos-</title>
-      <link>http://blog.ironchip.net/2019/05/15/07-curso-go-gestion-de-proyectos/</link>
+      <link>https://ironchiplab.github.io/2019/05/15/07-curso-go-gestion-de-proyectos/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/05/15/07-curso-go-gestion-de-proyectos/</guid>
+      <guid>https://ironchiplab.github.io/2019/05/15/07-curso-go-gestion-de-proyectos/</guid>
       <description>En este nuevo nuevo curso de go aprenderemos el manejo de dependencias, creación de tests que analicen nuestro código y benchmark para obtener análisis de resultados.</description>
     </item>
     

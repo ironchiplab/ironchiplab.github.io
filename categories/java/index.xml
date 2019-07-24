@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on </title>
-    <link>http://blog.ironchip.net/categories/java/</link>
+    <link>https://ironchiplab.github.io/categories/java/</link>
     <description>Recent content in Java on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jan 2019 17:31:59 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.ironchip.net/categories/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironchiplab.github.io/categories/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prototipado ágil en Java. Parte 1: Iniciar un proyecto de Spring con Maven, JSP y Login automático.</title>
-      <link>http://blog.ironchip.net/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</link>
+      <link>https://ironchiplab.github.io/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</link>
       <pubDate>Tue, 08 Jan 2019 17:31:59 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</guid>
+      <guid>https://ironchiplab.github.io/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</guid>
       <description>Prototipado ágil en Java. Parte 1 Spring es un framework de Java, orientado a lanzar aplicaciones Java de manera rápida y ágil, haciendo automáticas y más faciles configuraciones típicas y tediosas.</description>
     </item>
     

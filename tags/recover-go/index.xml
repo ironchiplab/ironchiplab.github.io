@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recover Go on </title>
-    <link>http://blog.ironchip.net/tags/recover-go/</link>
+    <link>https://ironchiplab.github.io/tags/recover-go/</link>
     <description>Recent content in Recover Go on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Apr 2019 11:33:58 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.ironchip.net/tags/recover-go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironchiplab.github.io/tags/recover-go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>05 Curso Go – Errores</title>
-      <link>http://blog.ironchip.net/2019/04/24/05-curso-go-errores/</link>
+      <link>https://ironchiplab.github.io/2019/04/24/05-curso-go-errores/</link>
       <pubDate>Wed, 24 Apr 2019 11:33:58 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/04/24/05-curso-go-errores/</guid>
+      <guid>https://ironchiplab.github.io/2019/04/24/05-curso-go-errores/</guid>
       <description>Curso Go: Parte 5 Bienvenidos de nuevo, en esta entrega del curso vamos a aprender a trabajar con errores , parte fundamental en nuestras aplicaciones en GO si queremos proporcionar robustez a nuestro código y poder llevar un seguimiento de los errores que se producen durante la ejecución de nuestros programas.</description>
     </item>
     

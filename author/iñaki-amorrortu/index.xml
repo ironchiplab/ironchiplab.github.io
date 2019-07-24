@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iñaki Amorrortu on </title>
-    <link>http://blog.ironchip.net/author/i%C3%B1aki-amorrortu/</link>
+    <link>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</link>
     <description>Recent content in Iñaki Amorrortu on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Apr 2019 21:22:13 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.ironchip.net/author/i%C3%B1aki-amorrortu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como hacer un proxy rápido con tinyproxy para evitar problemas con CORS</title>
-      <link>http://blog.ironchip.net/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</link>
+      <link>https://ironchiplab.github.io/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</guid>
+      <guid>https://ironchiplab.github.io/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</guid>
       <description>Para evitarnos problemas con CORS, podemos utilizar un proxy para hacer las llamadas a nuestra API.</description>
     </item>
     
     <item>
       <title>Hablando ModBus con NODE-RED en una Raspberry PI: Parte 1</title>
-      <link>http://blog.ironchip.net/2019/01/18/instalacion-de-node-red-en-una-raspberry-pi/</link>
+      <link>https://ironchiplab.github.io/2019/01/18/instalacion-de-node-red-en-una-raspberry-pi/</link>
       <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/01/18/instalacion-de-node-red-en-una-raspberry-pi/</guid>
+      <guid>https://ironchiplab.github.io/2019/01/18/instalacion-de-node-red-en-una-raspberry-pi/</guid>
       <description>Hablando ModBus con NODE-RED en una Raspberry PI Para la instalación de Node-Red en una Raspberry, lo primero sera configurarla.</description>
     </item>
     
     <item>
       <title>Prototipado ágil en Java. Parte 1: Iniciar un proyecto de Spring con Maven, JSP y Login automático.</title>
-      <link>http://blog.ironchip.net/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</link>
+      <link>https://ironchiplab.github.io/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</link>
       <pubDate>Tue, 08 Jan 2019 17:31:59 +0000</pubDate>
       
-      <guid>http://blog.ironchip.net/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</guid>
+      <guid>https://ironchiplab.github.io/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</guid>
       <description>Prototipado ágil en Java. Parte 1 Spring es un framework de Java, orientado a lanzar aplicaciones Java de manera rápida y ágil, haciendo automáticas y más faciles configuraciones típicas y tediosas.</description>
     </item>
     
