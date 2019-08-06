@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>express on </title>
-    <link>https://ironchiplab.github.io/tags/express/</link>
+    <link>https://blog.ironchip.net/tags/express/</link>
     <description>Recent content in express on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Dec 2018 12:31:45 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/tags/express/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/tags/express/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Crea y testea una API en 5 minutos en JS con express</title>
-      <link>https://ironchiplab.github.io/2018/12/03/crea-y-testea-una-api-en-5-minutos-en-js/</link>
+      <link>https://blog.ironchip.net/2018/12/03/crea-y-testea-una-api-en-5-minutos-en-js/</link>
       <pubDate>Mon, 03 Dec 2018 12:31:45 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2018/12/03/crea-y-testea-una-api-en-5-minutos-en-js/</guid>
+      <guid>https://blog.ironchip.net/2018/12/03/crea-y-testea-una-api-en-5-minutos-en-js/</guid>
       <description>Crea y testea una API en 5 minutos en JS con express En este capítulo os voy a enseñar a crear y testear una API REST en javascript con el framework de ExpressJS y nodejs en 5 minutos para hacer cualquier cosa rápida, flexible y sencilla que necesitéis.</description>
     </item>
     

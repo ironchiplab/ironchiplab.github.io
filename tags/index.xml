@@ -2,993 +2,993 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://ironchiplab.github.io/tags/</link>
+    <link>https://blog.ironchip.net/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2019 12:33:15 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IBMcloud</title>
-      <link>https://ironchiplab.github.io/tags/ibmcloud/</link>
+      <link>https://blog.ironchip.net/tags/ibmcloud/</link>
       <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/ibmcloud/</guid>
+      <guid>https://blog.ironchip.net/tags/ibmcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws</title>
-      <link>https://ironchiplab.github.io/tags/aws/</link>
+      <link>https://blog.ironchip.net/tags/aws/</link>
       <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/aws/</guid>
+      <guid>https://blog.ironchip.net/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>azure</title>
-      <link>https://ironchiplab.github.io/tags/azure/</link>
+      <link>https://blog.ironchip.net/tags/azure/</link>
       <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/azure/</guid>
+      <guid>https://blog.ironchip.net/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terraform</title>
-      <link>https://ironchiplab.github.io/tags/terraform/</link>
+      <link>https://blog.ironchip.net/tags/terraform/</link>
       <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/terraform/</guid>
+      <guid>https://blog.ironchip.net/tags/terraform/</guid>
       <description></description>
     </item>
     
     <item>
       <title>develop</title>
-      <link>https://ironchiplab.github.io/tags/develop/</link>
+      <link>https://blog.ironchip.net/tags/develop/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/develop/</guid>
+      <guid>https://blog.ironchip.net/tags/develop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker</title>
-      <link>https://ironchiplab.github.io/tags/docker/</link>
+      <link>https://blog.ironchip.net/tags/docker/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker/</guid>
+      <guid>https://blog.ironchip.net/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker exec</title>
-      <link>https://ironchiplab.github.io/tags/docker-exec/</link>
+      <link>https://blog.ironchip.net/tags/docker-exec/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-exec/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-exec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker file</title>
-      <link>https://ironchiplab.github.io/tags/docker-file/</link>
+      <link>https://blog.ironchip.net/tags/docker-file/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-file/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-file/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker images</title>
-      <link>https://ironchiplab.github.io/tags/docker-images/</link>
+      <link>https://blog.ironchip.net/tags/docker-images/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-images/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker prune</title>
-      <link>https://ironchiplab.github.io/tags/docker-prune/</link>
+      <link>https://blog.ironchip.net/tags/docker-prune/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-prune/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-prune/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker ps</title>
-      <link>https://ironchiplab.github.io/tags/docker-ps/</link>
+      <link>https://blog.ironchip.net/tags/docker-ps/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-ps/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-ps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker rmi</title>
-      <link>https://ironchiplab.github.io/tags/docker-rmi/</link>
+      <link>https://blog.ironchip.net/tags/docker-rmi/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-rmi/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-rmi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker run</title>
-      <link>https://ironchiplab.github.io/tags/docker-run/</link>
+      <link>https://blog.ironchip.net/tags/docker-run/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-run/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-run/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dummies</title>
-      <link>https://ironchiplab.github.io/tags/dummies/</link>
+      <link>https://blog.ironchip.net/tags/dummies/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/dummies/</guid>
+      <guid>https://blog.ironchip.net/tags/dummies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>español</title>
-      <link>https://ironchiplab.github.io/tags/espa%C3%B1ol/</link>
+      <link>https://blog.ironchip.net/tags/espa%C3%B1ol/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/espa%C3%B1ol/</guid>
+      <guid>https://blog.ironchip.net/tags/espa%C3%B1ol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guide</title>
-      <link>https://ironchiplab.github.io/tags/guide/</link>
+      <link>https://blog.ironchip.net/tags/guide/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/guide/</guid>
+      <guid>https://blog.ironchip.net/tags/guide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>firewall</title>
-      <link>https://ironchiplab.github.io/tags/firewall/</link>
+      <link>https://blog.ironchip.net/tags/firewall/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/firewall/</guid>
+      <guid>https://blog.ironchip.net/tags/firewall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>networking</title>
-      <link>https://ironchiplab.github.io/tags/networking/</link>
+      <link>https://blog.ironchip.net/tags/networking/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/networking/</guid>
+      <guid>https://blog.ironchip.net/tags/networking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ngrok</title>
-      <link>https://ironchiplab.github.io/tags/ngrok/</link>
+      <link>https://blog.ironchip.net/tags/ngrok/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/ngrok/</guid>
+      <guid>https://blog.ironchip.net/tags/ngrok/</guid>
       <description></description>
     </item>
     
     <item>
       <title>port</title>
-      <link>https://ironchiplab.github.io/tags/port/</link>
+      <link>https://blog.ironchip.net/tags/port/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/port/</guid>
+      <guid>https://blog.ironchip.net/tags/port/</guid>
       <description></description>
     </item>
     
     <item>
       <title>curso go</title>
-      <link>https://ironchiplab.github.io/tags/curso-go/</link>
+      <link>https://blog.ironchip.net/tags/curso-go/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/curso-go/</guid>
+      <guid>https://blog.ironchip.net/tags/curso-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>curso go español</title>
-      <link>https://ironchiplab.github.io/tags/curso-go-espa%C3%B1ol/</link>
+      <link>https://blog.ironchip.net/tags/curso-go-espa%C3%B1ol/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/curso-go-espa%C3%B1ol/</guid>
+      <guid>https://blog.ironchip.net/tags/curso-go-espa%C3%B1ol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://ironchiplab.github.io/tags/go/</link>
+      <link>https://blog.ironchip.net/tags/go/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go/</guid>
+      <guid>https://blog.ironchip.net/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go español</title>
-      <link>https://ironchiplab.github.io/tags/go-espa%C3%B1ol/</link>
+      <link>https://blog.ironchip.net/tags/go-espa%C3%B1ol/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-espa%C3%B1ol/</guid>
+      <guid>https://blog.ironchip.net/tags/go-espa%C3%B1ol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go golang</title>
-      <link>https://ironchiplab.github.io/tags/go-golang/</link>
+      <link>https://blog.ironchip.net/tags/go-golang/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-golang/</guid>
+      <guid>https://blog.ironchip.net/tags/go-golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go http</title>
-      <link>https://ironchiplab.github.io/tags/go-http/</link>
+      <link>https://blog.ironchip.net/tags/go-http/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-http/</guid>
+      <guid>https://blog.ironchip.net/tags/go-http/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go json</title>
-      <link>https://ironchiplab.github.io/tags/go-json/</link>
+      <link>https://blog.ironchip.net/tags/go-json/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-json/</guid>
+      <guid>https://blog.ironchip.net/tags/go-json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go redes</title>
-      <link>https://ironchiplab.github.io/tags/go-redes/</link>
+      <link>https://blog.ironchip.net/tags/go-redes/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-redes/</guid>
+      <guid>https://blog.ironchip.net/tags/go-redes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://ironchiplab.github.io/tags/golang/</link>
+      <link>https://blog.ironchip.net/tags/golang/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/golang/</guid>
+      <guid>https://blog.ironchip.net/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang redes</title>
-      <link>https://ironchiplab.github.io/tags/golang-redes/</link>
+      <link>https://blog.ironchip.net/tags/golang-redes/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/golang-redes/</guid>
+      <guid>https://blog.ironchip.net/tags/golang-redes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redes go</title>
-      <link>https://ironchiplab.github.io/tags/redes-go/</link>
+      <link>https://blog.ironchip.net/tags/redes-go/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/redes-go/</guid>
+      <guid>https://blog.ironchip.net/tags/redes-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial español go</title>
-      <link>https://ironchiplab.github.io/tags/tutorial-espa%C3%B1ol-go/</link>
+      <link>https://blog.ironchip.net/tags/tutorial-espa%C3%B1ol-go/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/tutorial-espa%C3%B1ol-go/</guid>
+      <guid>https://blog.ironchip.net/tags/tutorial-espa%C3%B1ol-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial go</title>
-      <link>https://ironchiplab.github.io/tags/tutorial-go/</link>
+      <link>https://blog.ironchip.net/tags/tutorial-go/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/tutorial-go/</guid>
+      <guid>https://blog.ironchip.net/tags/tutorial-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>benchmarks</title>
-      <link>https://ironchiplab.github.io/tags/benchmarks/</link>
+      <link>https://blog.ironchip.net/tags/benchmarks/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/benchmarks/</guid>
+      <guid>https://blog.ironchip.net/tags/benchmarks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cpu profiles</title>
-      <link>https://ironchiplab.github.io/tags/cpu-profiles/</link>
+      <link>https://blog.ironchip.net/tags/cpu-profiles/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/cpu-profiles/</guid>
+      <guid>https://blog.ironchip.net/tags/cpu-profiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>imports</title>
-      <link>https://ironchiplab.github.io/tags/imports/</link>
+      <link>https://blog.ironchip.net/tags/imports/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/imports/</guid>
+      <guid>https://blog.ironchip.net/tags/imports/</guid>
       <description></description>
     </item>
     
     <item>
       <title>profiles</title>
-      <link>https://ironchiplab.github.io/tags/profiles/</link>
+      <link>https://blog.ironchip.net/tags/profiles/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/profiles/</guid>
+      <guid>https://blog.ironchip.net/tags/profiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test go</title>
-      <link>https://ironchiplab.github.io/tags/test-go/</link>
+      <link>https://blog.ironchip.net/tags/test-go/</link>
       <pubDate>Wed, 15 May 2019 13:00:39 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/test-go/</guid>
+      <guid>https://blog.ironchip.net/tags/test-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>complementos go para intellij</title>
-      <link>https://ironchiplab.github.io/tags/complementos-go-para-intellij/</link>
+      <link>https://blog.ironchip.net/tags/complementos-go-para-intellij/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/complementos-go-para-intellij/</guid>
+      <guid>https://blog.ironchip.net/tags/complementos-go-para-intellij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go Intellij</title>
-      <link>https://ironchiplab.github.io/tags/go-intellij/</link>
+      <link>https://blog.ironchip.net/tags/go-intellij/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-intellij/</guid>
+      <guid>https://blog.ironchip.net/tags/go-intellij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>goland Intellij</title>
-      <link>https://ironchiplab.github.io/tags/goland-intellij/</link>
+      <link>https://blog.ironchip.net/tags/goland-intellij/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/goland-intellij/</guid>
+      <guid>https://blog.ironchip.net/tags/goland-intellij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>instalacion goland para intellij</title>
-      <link>https://ironchiplab.github.io/tags/instalacion-goland-para-intellij/</link>
+      <link>https://blog.ironchip.net/tags/instalacion-goland-para-intellij/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/instalacion-goland-para-intellij/</guid>
+      <guid>https://blog.ironchip.net/tags/instalacion-goland-para-intellij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plugins intellij</title>
-      <link>https://ironchiplab.github.io/tags/plugins-intellij/</link>
+      <link>https://blog.ironchip.net/tags/plugins-intellij/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/plugins-intellij/</guid>
+      <guid>https://blog.ironchip.net/tags/plugins-intellij/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plugins para go</title>
-      <link>https://ironchiplab.github.io/tags/plugins-para-go/</link>
+      <link>https://blog.ironchip.net/tags/plugins-para-go/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/plugins-para-go/</guid>
+      <guid>https://blog.ironchip.net/tags/plugins-para-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial plugins go</title>
-      <link>https://ironchiplab.github.io/tags/tutorial-plugins-go/</link>
+      <link>https://blog.ironchip.net/tags/tutorial-plugins-go/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/tutorial-plugins-go/</guid>
+      <guid>https://blog.ironchip.net/tags/tutorial-plugins-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aprender go</title>
-      <link>https://ironchiplab.github.io/tags/aprender-go/</link>
+      <link>https://blog.ironchip.net/tags/aprender-go/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/aprender-go/</guid>
+      <guid>https://blog.ironchip.net/tags/aprender-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>como funciona go</title>
-      <link>https://ironchiplab.github.io/tags/como-funciona-go/</link>
+      <link>https://blog.ironchip.net/tags/como-funciona-go/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/como-funciona-go/</guid>
+      <guid>https://blog.ironchip.net/tags/como-funciona-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>goroutines go</title>
-      <link>https://ironchiplab.github.io/tags/goroutines-go/</link>
+      <link>https://blog.ironchip.net/tags/goroutines-go/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/goroutines-go/</guid>
+      <guid>https://blog.ironchip.net/tags/goroutines-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hilos go</title>
-      <link>https://ironchiplab.github.io/tags/hilos-go/</link>
+      <link>https://blog.ironchip.net/tags/hilos-go/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/hilos-go/</guid>
+      <guid>https://blog.ironchip.net/tags/hilos-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>manual go</title>
-      <link>https://ironchiplab.github.io/tags/manual-go/</link>
+      <link>https://blog.ironchip.net/tags/manual-go/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/manual-go/</guid>
+      <guid>https://blog.ironchip.net/tags/manual-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>slices go</title>
-      <link>https://ironchiplab.github.io/tags/slices-go/</link>
+      <link>https://blog.ironchip.net/tags/slices-go/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/slices-go/</guid>
+      <guid>https://blog.ironchip.net/tags/slices-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>errors.Wrap()</title>
-      <link>https://ironchiplab.github.io/tags/errors.wrap/</link>
+      <link>https://blog.ironchip.net/tags/errors.wrap/</link>
       <pubDate>Wed, 24 Apr 2019 11:33:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/errors.wrap/</guid>
+      <guid>https://blog.ironchip.net/tags/errors.wrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go errors</title>
-      <link>https://ironchiplab.github.io/tags/go-errors/</link>
+      <link>https://blog.ironchip.net/tags/go-errors/</link>
       <pubDate>Wed, 24 Apr 2019 11:33:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-errors/</guid>
+      <guid>https://blog.ironchip.net/tags/go-errors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>panic go</title>
-      <link>https://ironchiplab.github.io/tags/panic-go/</link>
+      <link>https://blog.ironchip.net/tags/panic-go/</link>
       <pubDate>Wed, 24 Apr 2019 11:33:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/panic-go/</guid>
+      <guid>https://blog.ironchip.net/tags/panic-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recover go</title>
-      <link>https://ironchiplab.github.io/tags/recover-go/</link>
+      <link>https://blog.ironchip.net/tags/recover-go/</link>
       <pubDate>Wed, 24 Apr 2019 11:33:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/recover-go/</guid>
+      <guid>https://blog.ironchip.net/tags/recover-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anon</title>
-      <link>https://ironchiplab.github.io/tags/anon/</link>
+      <link>https://blog.ironchip.net/tags/anon/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/anon/</guid>
+      <guid>https://blog.ironchip.net/tags/anon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anonymity</title>
-      <link>https://ironchiplab.github.io/tags/anonymity/</link>
+      <link>https://blog.ironchip.net/tags/anonymity/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/anonymity/</guid>
+      <guid>https://blog.ironchip.net/tags/anonymity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hidden ip</title>
-      <link>https://ironchiplab.github.io/tags/hidden-ip/</link>
+      <link>https://blog.ironchip.net/tags/hidden-ip/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/hidden-ip/</guid>
+      <guid>https://blog.ironchip.net/tags/hidden-ip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hide ip</title>
-      <link>https://ironchiplab.github.io/tags/hide-ip/</link>
+      <link>https://blog.ironchip.net/tags/hide-ip/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/hide-ip/</guid>
+      <guid>https://blog.ironchip.net/tags/hide-ip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>i2p</title>
-      <link>https://ironchiplab.github.io/tags/i2p/</link>
+      <link>https://blog.ironchip.net/tags/i2p/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/i2p/</guid>
+      <guid>https://blog.ironchip.net/tags/i2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docker go</title>
-      <link>https://ironchiplab.github.io/tags/docker-go/</link>
+      <link>https://blog.ironchip.net/tags/docker-go/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/docker-go/</guid>
+      <guid>https://blog.ironchip.net/tags/docker-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go desarrollo</title>
-      <link>https://ironchiplab.github.io/tags/go-desarrollo/</link>
+      <link>https://blog.ironchip.net/tags/go-desarrollo/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-desarrollo/</guid>
+      <guid>https://blog.ironchip.net/tags/go-desarrollo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go development</title>
-      <link>https://ironchiplab.github.io/tags/go-development/</link>
+      <link>https://blog.ironchip.net/tags/go-development/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-development/</guid>
+      <guid>https://blog.ironchip.net/tags/go-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go producción</title>
-      <link>https://ironchiplab.github.io/tags/go-producci%C3%B3n/</link>
+      <link>https://blog.ironchip.net/tags/go-producci%C3%B3n/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-producci%C3%B3n/</guid>
+      <guid>https://blog.ironchip.net/tags/go-producci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go production</title>
-      <link>https://ironchiplab.github.io/tags/go-production/</link>
+      <link>https://blog.ironchip.net/tags/go-production/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/go-production/</guid>
+      <guid>https://blog.ironchip.net/tags/go-production/</guid>
       <description></description>
     </item>
     
     <item>
       <title>estructuras go</title>
-      <link>https://ironchiplab.github.io/tags/estructuras-go/</link>
+      <link>https://blog.ironchip.net/tags/estructuras-go/</link>
       <pubDate>Tue, 16 Apr 2019 16:51:32 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/estructuras-go/</guid>
+      <guid>https://blog.ironchip.net/tags/estructuras-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interface go</title>
-      <link>https://ironchiplab.github.io/tags/interface-go/</link>
+      <link>https://blog.ironchip.net/tags/interface-go/</link>
       <pubDate>Tue, 16 Apr 2019 16:51:32 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/interface-go/</guid>
+      <guid>https://blog.ironchip.net/tags/interface-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metodos go</title>
-      <link>https://ironchiplab.github.io/tags/metodos-go/</link>
+      <link>https://blog.ironchip.net/tags/metodos-go/</link>
       <pubDate>Tue, 16 Apr 2019 16:51:32 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/metodos-go/</guid>
+      <guid>https://blog.ironchip.net/tags/metodos-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>orientado a objetos</title>
-      <link>https://ironchiplab.github.io/tags/orientado-a-objetos/</link>
+      <link>https://blog.ironchip.net/tags/orientado-a-objetos/</link>
       <pubDate>Tue, 16 Apr 2019 16:51:32 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/orientado-a-objetos/</guid>
+      <guid>https://blog.ironchip.net/tags/orientado-a-objetos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>credential helper</title>
-      <link>https://ironchiplab.github.io/tags/credential-helper/</link>
+      <link>https://blog.ironchip.net/tags/credential-helper/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/credential-helper/</guid>
+      <guid>https://blog.ironchip.net/tags/credential-helper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>credentials</title>
-      <link>https://ironchiplab.github.io/tags/credentials/</link>
+      <link>https://blog.ironchip.net/tags/credentials/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/credentials/</guid>
+      <guid>https://blog.ironchip.net/tags/credentials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://ironchiplab.github.io/tags/git/</link>
+      <link>https://blog.ironchip.net/tags/git/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/git/</guid>
+      <guid>https://blog.ironchip.net/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git save credentials</title>
-      <link>https://ironchiplab.github.io/tags/git-save-credentials/</link>
+      <link>https://blog.ironchip.net/tags/git-save-credentials/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/git-save-credentials/</guid>
+      <guid>https://blog.ironchip.net/tags/git-save-credentials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git save password</title>
-      <link>https://ironchiplab.github.io/tags/git-save-password/</link>
+      <link>https://blog.ironchip.net/tags/git-save-password/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/git-save-password/</guid>
+      <guid>https://blog.ironchip.net/tags/git-save-password/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git save user</title>
-      <link>https://ironchiplab.github.io/tags/git-save-user/</link>
+      <link>https://blog.ironchip.net/tags/git-save-user/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/git-save-user/</guid>
+      <guid>https://blog.ironchip.net/tags/git-save-user/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API REST</title>
-      <link>https://ironchiplab.github.io/tags/api-rest/</link>
+      <link>https://blog.ironchip.net/tags/api-rest/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/api-rest/</guid>
+      <guid>https://blog.ironchip.net/tags/api-rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CORS</title>
-      <link>https://ironchiplab.github.io/tags/cors/</link>
+      <link>https://blog.ironchip.net/tags/cors/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/cors/</guid>
+      <guid>https://blog.ironchip.net/tags/cors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arreglar cors</title>
-      <link>https://ironchiplab.github.io/tags/arreglar-cors/</link>
+      <link>https://blog.ironchip.net/tags/arreglar-cors/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/arreglar-cors/</guid>
+      <guid>https://blog.ironchip.net/tags/arreglar-cors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cors go</title>
-      <link>https://ironchiplab.github.io/tags/cors-go/</link>
+      <link>https://blog.ironchip.net/tags/cors-go/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/cors-go/</guid>
+      <guid>https://blog.ironchip.net/tags/cors-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cors nodejs</title>
-      <link>https://ironchiplab.github.io/tags/cors-nodejs/</link>
+      <link>https://blog.ironchip.net/tags/cors-nodejs/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/cors-nodejs/</guid>
+      <guid>https://blog.ironchip.net/tags/cors-nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evitar cors</title>
-      <link>https://ironchiplab.github.io/tags/evitar-cors/</link>
+      <link>https://blog.ironchip.net/tags/evitar-cors/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/evitar-cors/</guid>
+      <guid>https://blog.ironchip.net/tags/evitar-cors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>proxy</title>
-      <link>https://ironchiplab.github.io/tags/proxy/</link>
+      <link>https://blog.ironchip.net/tags/proxy/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/proxy/</guid>
+      <guid>https://blog.ironchip.net/tags/proxy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tinyproxy</title>
-      <link>https://ironchiplab.github.io/tags/tinyproxy/</link>
+      <link>https://blog.ironchip.net/tags/tinyproxy/</link>
       <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/tinyproxy/</guid>
+      <guid>https://blog.ironchip.net/tags/tinyproxy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>curso go castellano</title>
-      <link>https://ironchiplab.github.io/tags/curso-go-castellano/</link>
+      <link>https://blog.ironchip.net/tags/curso-go-castellano/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/curso-go-castellano/</guid>
+      <guid>https://blog.ironchip.net/tags/curso-go-castellano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>error go</title>
-      <link>https://ironchiplab.github.io/tags/error-go/</link>
+      <link>https://blog.ironchip.net/tags/error-go/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/error-go/</guid>
+      <guid>https://blog.ironchip.net/tags/error-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>func go</title>
-      <link>https://ironchiplab.github.io/tags/func-go/</link>
+      <link>https://blog.ironchip.net/tags/func-go/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/func-go/</guid>
+      <guid>https://blog.ironchip.net/tags/func-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funciones go</title>
-      <link>https://ironchiplab.github.io/tags/funciones-go/</link>
+      <link>https://blog.ironchip.net/tags/funciones-go/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/funciones-go/</guid>
+      <guid>https://blog.ironchip.net/tags/funciones-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang funciones</title>
-      <link>https://ironchiplab.github.io/tags/golang-funciones/</link>
+      <link>https://blog.ironchip.net/tags/golang-funciones/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/golang-funciones/</guid>
+      <guid>https://blog.ironchip.net/tags/golang-funciones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>for go</title>
-      <link>https://ironchiplab.github.io/tags/for-go/</link>
+      <link>https://blog.ironchip.net/tags/for-go/</link>
       <pubDate>Wed, 03 Apr 2019 10:31:09 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/for-go/</guid>
+      <guid>https://blog.ironchip.net/tags/for-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funciones basicas go</title>
-      <link>https://ironchiplab.github.io/tags/funciones-basicas-go/</link>
+      <link>https://blog.ironchip.net/tags/funciones-basicas-go/</link>
       <pubDate>Wed, 03 Apr 2019 10:31:09 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/funciones-basicas-go/</guid>
+      <guid>https://blog.ironchip.net/tags/funciones-basicas-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>if go</title>
-      <link>https://ironchiplab.github.io/tags/if-go/</link>
+      <link>https://blog.ironchip.net/tags/if-go/</link>
       <pubDate>Wed, 03 Apr 2019 10:31:09 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/if-go/</guid>
+      <guid>https://blog.ironchip.net/tags/if-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bussiness</title>
-      <link>https://ironchiplab.github.io/tags/bussiness/</link>
+      <link>https://blog.ironchip.net/tags/bussiness/</link>
       <pubDate>Thu, 28 Mar 2019 19:41:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/bussiness/</guid>
+      <guid>https://blog.ironchip.net/tags/bussiness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>domekey</title>
-      <link>https://ironchiplab.github.io/tags/domekey/</link>
+      <link>https://blog.ironchip.net/tags/domekey/</link>
       <pubDate>Thu, 28 Mar 2019 19:41:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/domekey/</guid>
+      <guid>https://blog.ironchip.net/tags/domekey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ironchip</title>
-      <link>https://ironchiplab.github.io/tags/ironchip/</link>
+      <link>https://blog.ironchip.net/tags/ironchip/</link>
       <pubDate>Thu, 28 Mar 2019 19:41:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/ironchip/</guid>
+      <guid>https://blog.ironchip.net/tags/ironchip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>compilar go</title>
-      <link>https://ironchiplab.github.io/tags/compilar-go/</link>
+      <link>https://blog.ironchip.net/tags/compilar-go/</link>
       <pubDate>Wed, 27 Mar 2019 19:23:34 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/compilar-go/</guid>
+      <guid>https://blog.ironchip.net/tags/compilar-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>instalar go</title>
-      <link>https://ironchiplab.github.io/tags/instalar-go/</link>
+      <link>https://blog.ironchip.net/tags/instalar-go/</link>
       <pubDate>Wed, 27 Mar 2019 19:23:34 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/instalar-go/</guid>
+      <guid>https://blog.ironchip.net/tags/instalar-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>problema go instalar</title>
-      <link>https://ironchiplab.github.io/tags/problema-go-instalar/</link>
+      <link>https://blog.ironchip.net/tags/problema-go-instalar/</link>
       <pubDate>Wed, 27 Mar 2019 19:23:34 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/problema-go-instalar/</guid>
+      <guid>https://blog.ironchip.net/tags/problema-go-instalar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>que es golang</title>
-      <link>https://ironchiplab.github.io/tags/que-es-golang/</link>
+      <link>https://blog.ironchip.net/tags/que-es-golang/</link>
       <pubDate>Wed, 27 Mar 2019 19:23:34 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/que-es-golang/</guid>
+      <guid>https://blog.ironchip.net/tags/que-es-golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>express</title>
-      <link>https://ironchiplab.github.io/tags/express/</link>
+      <link>https://blog.ironchip.net/tags/express/</link>
       <pubDate>Mon, 03 Dec 2018 12:31:45 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/express/</guid>
+      <guid>https://blog.ironchip.net/tags/express/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://ironchiplab.github.io/tags/javascript/</link>
+      <link>https://blog.ironchip.net/tags/javascript/</link>
       <pubDate>Mon, 03 Dec 2018 12:31:45 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/javascript/</guid>
+      <guid>https://blog.ironchip.net/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clipboard</title>
-      <link>https://ironchiplab.github.io/tags/clipboard/</link>
+      <link>https://blog.ironchip.net/tags/clipboard/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/clipboard/</guid>
+      <guid>https://blog.ironchip.net/tags/clipboard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>copiar</title>
-      <link>https://ironchiplab.github.io/tags/copiar/</link>
+      <link>https://blog.ironchip.net/tags/copiar/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/copiar/</guid>
+      <guid>https://blog.ironchip.net/tags/copiar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>copy</title>
-      <link>https://ironchiplab.github.io/tags/copy/</link>
+      <link>https://blog.ironchip.net/tags/copy/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/copy/</guid>
+      <guid>https://blog.ironchip.net/tags/copy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>error</title>
-      <link>https://ironchiplab.github.io/tags/error/</link>
+      <link>https://blog.ironchip.net/tags/error/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/error/</guid>
+      <guid>https://blog.ironchip.net/tags/error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paste</title>
-      <link>https://ironchiplab.github.io/tags/paste/</link>
+      <link>https://blog.ironchip.net/tags/paste/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/paste/</guid>
+      <guid>https://blog.ironchip.net/tags/paste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pegar</title>
-      <link>https://ironchiplab.github.io/tags/pegar/</link>
+      <link>https://blog.ironchip.net/tags/pegar/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/pegar/</guid>
+      <guid>https://blog.ironchip.net/tags/pegar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portapapeles</title>
-      <link>https://ironchiplab.github.io/tags/portapapeles/</link>
+      <link>https://blog.ironchip.net/tags/portapapeles/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/portapapeles/</guid>
+      <guid>https://blog.ironchip.net/tags/portapapeles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>problema</title>
-      <link>https://ironchiplab.github.io/tags/problema/</link>
+      <link>https://blog.ironchip.net/tags/problema/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/problema/</guid>
+      <guid>https://blog.ironchip.net/tags/problema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>https://ironchiplab.github.io/tags/vim/</link>
+      <link>https://blog.ironchip.net/tags/vim/</link>
       <pubDate>Thu, 25 Oct 2018 11:01:52 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/tags/vim/</guid>
+      <guid>https://blog.ironchip.net/tags/vim/</guid>
       <description></description>
     </item>
     

@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xabier Sestafe on </title>
-    <link>https://ironchiplab.github.io/author/xabier-sestafe/</link>
+    <link>https://blog.ironchip.net/author/xabier-sestafe/</link>
     <description>Recent content in Xabier Sestafe on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 09:55:24 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/author/xabier-sestafe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/author/xabier-sestafe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>08 Curso Go – Redes</title>
-      <link>https://ironchiplab.github.io/2019/05/22/08-curso-go-redes/</link>
+      <link>https://blog.ironchip.net/2019/05/22/08-curso-go-redes/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/05/22/08-curso-go-redes/</guid>
+      <guid>https://blog.ironchip.net/2019/05/22/08-curso-go-redes/</guid>
       <description>Curso Go: Parte 8 Bienvenidos a una nueva entrega del curso, en este último apartado, veremos el formato JSON, llamadas HTTP, servidor HTTP &amp;#8230; una explicación de cada una de ellas&amp;nbsp; y propondremos&amp;nbsp; pequeñas pruebas, para que seáis vosotros quienes valoréis si realmente estamos afianzando los conceptos expuestos en esta parte del curso.</description>
     </item>
     
     <item>
       <title>Preparando IntelliJ para Go</title>
-      <link>https://ironchiplab.github.io/2019/05/06/preparando-intellij-para-go/</link>
+      <link>https://blog.ironchip.net/2019/05/06/preparando-intellij-para-go/</link>
       <pubDate>Mon, 06 May 2019 12:55:18 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/05/06/preparando-intellij-para-go/</guid>
+      <guid>https://blog.ironchip.net/2019/05/06/preparando-intellij-para-go/</guid>
       <description>Instalando Go Si todavía no los as hecho, sigue las instrucciones de instalación Descargando e instalando Goland Descargar&amp;nbsp;Goland&amp;nbsp;para tu sistema operativo.</description>
     </item>
     
     <item>
       <title>06 Curso Go – Computación Concurrente</title>
-      <link>https://ironchiplab.github.io/2019/04/30/06-curso-go-computacion-concurrente/</link>
+      <link>https://blog.ironchip.net/2019/04/30/06-curso-go-computacion-concurrente/</link>
       <pubDate>Tue, 30 Apr 2019 08:54:13 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/04/30/06-curso-go-computacion-concurrente/</guid>
+      <guid>https://blog.ironchip.net/2019/04/30/06-curso-go-computacion-concurrente/</guid>
       <description>Bienvenidos a una nueva entrega del curso, en este apartado, veremos goroutines (Go-rutinas) que son hilos de ejecución, Canales mecanismo de comunicación para envió y recepción de datos entre dos go-rutinas y Select para&amp;nbsp; escuchar simultáneamente en varios canales, por supuesto, una explicación de cada una de ellas&amp;nbsp; y propondremos&amp;nbsp; pequeñas pruebas, para que seáis vosotros quienes valoréis si realmente estamos afianzando los conceptos expuestos en esta parte del curso.</description>
     </item>
     
     <item>
       <title>04 Curso Go – Orientado a Objetos</title>
-      <link>https://ironchiplab.github.io/2019/04/16/04-curso-go-orientado-a-objetos/</link>
+      <link>https://blog.ironchip.net/2019/04/16/04-curso-go-orientado-a-objetos/</link>
       <pubDate>Tue, 16 Apr 2019 16:51:32 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/04/16/04-curso-go-orientado-a-objetos/</guid>
+      <guid>https://blog.ironchip.net/2019/04/16/04-curso-go-orientado-a-objetos/</guid>
       <description>Curso Go: Parte 4 Bienvenidos a una nueva entrega del curso, en este apartado, veremos estructuras, métodos y interfaces una explicación de cada una de ellas&amp;nbsp; y propondremos&amp;nbsp; pequeñas pruebas, para que seáis vosotros quienes valoréis si realmente estamos afianzando los conceptos expuestos en esta parte del curso.</description>
     </item>
     
     <item>
       <title>02 Curso Go – Funciones básicas</title>
-      <link>https://ironchiplab.github.io/2019/04/03/02-curso-go-funciones-basicas/</link>
+      <link>https://blog.ironchip.net/2019/04/03/02-curso-go-funciones-basicas/</link>
       <pubDate>Wed, 03 Apr 2019 10:31:09 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/04/03/02-curso-go-funciones-basicas/</guid>
+      <guid>https://blog.ironchip.net/2019/04/03/02-curso-go-funciones-basicas/</guid>
       <description>Curso Go: Parte 2 Bienvenidos a una nueva entrega del curso, en este segundo apartado, veremos una breve explicación de cada una de las funciones mas utilizadas y propondremos pequeñas pruebas, para que seáis vosotros quienes valoréis si realmente afianzamos los conceptos expuestos en esta parte del curso.</description>
     </item>
     

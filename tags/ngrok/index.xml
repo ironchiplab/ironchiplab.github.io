@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ngrok on </title>
-    <link>https://ironchiplab.github.io/tags/ngrok/</link>
+    <link>https://blog.ironchip.net/tags/ngrok/</link>
     <description>Recent content in ngrok on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jun 2019 17:03:28 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/tags/ngrok/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/tags/ngrok/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ngrok- Exponer puerto local a Internet​</title>
-      <link>https://ironchiplab.github.io/2019/06/10/ngrok/</link>
+      <link>https://blog.ironchip.net/2019/06/10/ngrok/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/06/10/ngrok/</guid>
+      <guid>https://blog.ironchip.net/2019/06/10/ngrok/</guid>
       <description>Os presentamos una herramienta super potente para developing Ngrok. Mediante 1 simple comando podremos obtener una url para acceder desde Internet.</description>
     </item>
     

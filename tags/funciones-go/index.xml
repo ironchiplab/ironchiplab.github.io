@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>funciones go on </title>
-    <link>https://ironchiplab.github.io/tags/funciones-go/</link>
+    <link>https://blog.ironchip.net/tags/funciones-go/</link>
     <description>Recent content in funciones go on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Apr 2019 11:52:57 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/tags/funciones-go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/tags/funciones-go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>03 Curso Go – Funciones</title>
-      <link>https://ironchiplab.github.io/2019/04/10/03-curso-go-funciones/</link>
+      <link>https://blog.ironchip.net/2019/04/10/03-curso-go-funciones/</link>
       <pubDate>Wed, 10 Apr 2019 11:52:57 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/04/10/03-curso-go-funciones/</guid>
+      <guid>https://blog.ironchip.net/2019/04/10/03-curso-go-funciones/</guid>
       <description>Curso Go: Parte 3 En esta tercera parte del blog vamos a aprender a crear funciones para que podamos crear aplicaciones mas complejas y modulares pudiendo así dar vida a nuestras ideas y nuevos proyectos.</description>
     </item>
     

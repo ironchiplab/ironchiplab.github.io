@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go development on </title>
-    <link>https://ironchiplab.github.io/tags/go-development/</link>
+    <link>https://blog.ironchip.net/tags/go-development/</link>
     <description>Recent content in go development on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Apr 2019 19:50:47 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/tags/go-development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/tags/go-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Golang y Docker para desarrollo y producción</title>
-      <link>https://ironchiplab.github.io/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</link>
+      <link>https://blog.ironchip.net/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</guid>
+      <guid>https://blog.ironchip.net/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</guid>
       <description>Cada vez que un desarrollador se une a un nuevo proyecto, es necesario que este monte el entorno, instale librerias, dependencias, y configure las variables de entorno.</description>
     </item>
     

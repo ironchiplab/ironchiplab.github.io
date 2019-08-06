@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://ironchiplab.github.io/categories/</link>
+    <link>https://blog.ironchip.net/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jul 2019 12:33:15 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Terraform</title>
-      <link>https://ironchiplab.github.io/categories/terraform/</link>
+      <link>https://blog.ironchip.net/categories/terraform/</link>
       <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/terraform/</guid>
+      <guid>https://blog.ironchip.net/categories/terraform/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://ironchiplab.github.io/categories/docker/</link>
+      <link>https://blog.ironchip.net/categories/docker/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/docker/</guid>
+      <guid>https://blog.ironchip.net/categories/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>developing</title>
-      <link>https://ironchiplab.github.io/categories/developing/</link>
+      <link>https://blog.ironchip.net/categories/developing/</link>
       <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/developing/</guid>
+      <guid>https://blog.ironchip.net/categories/developing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>https://ironchiplab.github.io/categories/uncategorized/</link>
+      <link>https://blog.ironchip.net/categories/uncategorized/</link>
       <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/uncategorized/</guid>
+      <guid>https://blog.ironchip.net/categories/uncategorized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://ironchiplab.github.io/categories/linux/</link>
+      <link>https://blog.ironchip.net/categories/linux/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/linux/</guid>
+      <guid>https://blog.ironchip.net/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://ironchiplab.github.io/categories/go/</link>
+      <link>https://blog.ironchip.net/categories/go/</link>
       <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/go/</guid>
+      <guid>https://blog.ironchip.net/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anonymity</title>
-      <link>https://ironchiplab.github.io/categories/anonymity/</link>
+      <link>https://blog.ironchip.net/categories/anonymity/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/anonymity/</guid>
+      <guid>https://blog.ironchip.net/categories/anonymity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cibersecurity</title>
-      <link>https://ironchiplab.github.io/categories/cibersecurity/</link>
+      <link>https://blog.ironchip.net/categories/cibersecurity/</link>
       <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/cibersecurity/</guid>
+      <guid>https://blog.ironchip.net/categories/cibersecurity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ironchip</title>
-      <link>https://ironchiplab.github.io/categories/ironchip/</link>
+      <link>https://blog.ironchip.net/categories/ironchip/</link>
       <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/ironchip/</guid>
+      <guid>https://blog.ironchip.net/categories/ironchip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://ironchiplab.github.io/categories/git/</link>
+      <link>https://blog.ironchip.net/categories/git/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/git/</guid>
+      <guid>https://blog.ironchip.net/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IoT</title>
-      <link>https://ironchiplab.github.io/categories/iot/</link>
+      <link>https://blog.ironchip.net/categories/iot/</link>
       <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/iot/</guid>
+      <guid>https://blog.ironchip.net/categories/iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OT</title>
-      <link>https://ironchiplab.github.io/categories/ot/</link>
+      <link>https://blog.ironchip.net/categories/ot/</link>
       <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/ot/</guid>
+      <guid>https://blog.ironchip.net/categories/ot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raspberry PI</title>
-      <link>https://ironchiplab.github.io/categories/raspberry-pi/</link>
+      <link>https://blog.ironchip.net/categories/raspberry-pi/</link>
       <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/raspberry-pi/</guid>
+      <guid>https://blog.ironchip.net/categories/raspberry-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://ironchiplab.github.io/categories/java/</link>
+      <link>https://blog.ironchip.net/categories/java/</link>
       <pubDate>Tue, 08 Jan 2019 17:31:59 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/java/</guid>
+      <guid>https://blog.ironchip.net/categories/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>https://ironchiplab.github.io/categories/spring/</link>
+      <link>https://blog.ironchip.net/categories/spring/</link>
       <pubDate>Tue, 08 Jan 2019 17:31:59 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/spring/</guid>
+      <guid>https://blog.ironchip.net/categories/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://ironchiplab.github.io/categories/javascript/</link>
+      <link>https://blog.ironchip.net/categories/javascript/</link>
       <pubDate>Mon, 03 Dec 2018 12:31:45 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/javascript/</guid>
+      <guid>https://blog.ironchip.net/categories/javascript/</guid>
       <description></description>
     </item>
     

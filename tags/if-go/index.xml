@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>if go on </title>
-    <link>https://ironchiplab.github.io/tags/if-go/</link>
+    <link>https://blog.ironchip.net/tags/if-go/</link>
     <description>Recent content in if go on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Apr 2019 10:31:09 +0000</lastBuildDate>
     
-	<atom:link href="https://ironchiplab.github.io/tags/if-go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.ironchip.net/tags/if-go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>02 Curso Go – Funciones básicas</title>
-      <link>https://ironchiplab.github.io/2019/04/03/02-curso-go-funciones-basicas/</link>
+      <link>https://blog.ironchip.net/2019/04/03/02-curso-go-funciones-basicas/</link>
       <pubDate>Wed, 03 Apr 2019 10:31:09 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/2019/04/03/02-curso-go-funciones-basicas/</guid>
+      <guid>https://blog.ironchip.net/2019/04/03/02-curso-go-funciones-basicas/</guid>
       <description>Curso Go: Parte 2 Bienvenidos a una nueva entrega del curso, en este segundo apartado, veremos una breve explicación de cada una de las funciones mas utilizadas y propondremos pequeñas pruebas, para que seáis vosotros quienes valoréis si realmente afianzamos los conceptos expuestos en esta parte del curso.</description>
     </item>
     
