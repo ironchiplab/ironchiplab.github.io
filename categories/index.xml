@@ -6,10 +6,64 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2019 22:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 12:33:15 +0000</lastBuildDate>
     
 	<atom:link href="https://ironchiplab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://ironchiplab.github.io/categories/terraform/</link>
+      <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://ironchiplab.github.io/categories/docker/</link>
+      <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developing</title>
+      <link>https://ironchiplab.github.io/categories/developing/</link>
+      <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/developing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://ironchiplab.github.io/categories/uncategorized/</link>
+      <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://ironchiplab.github.io/categories/linux/</link>
+      <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://ironchiplab.github.io/categories/go/</link>
+      <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/go/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anonymity</title>
@@ -30,25 +84,16 @@
     </item>
     
     <item>
-      <title>Developing</title>
-      <link>https://ironchiplab.github.io/categories/developing/</link>
-      <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
+      <title>ironchip</title>
+      <link>https://ironchiplab.github.io/categories/ironchip/</link>
+      <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/developing/</guid>
+      <guid>https://ironchiplab.github.io/categories/ironchip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://ironchiplab.github.io/categories/docker/</link>
-      <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Git</title>
+      <title>git</title>
       <link>https://ironchiplab.github.io/categories/git/</link>
       <pubDate>Mon, 15 Apr 2019 16:12:58 +0000</pubDate>
       
@@ -57,16 +102,7 @@
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://ironchiplab.github.io/categories/go/</link>
-      <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iot</title>
+      <title>IoT</title>
       <link>https://ironchiplab.github.io/categories/iot/</link>
       <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
       
@@ -75,11 +111,20 @@
     </item>
     
     <item>
-      <title>Ironchip</title>
-      <link>https://ironchiplab.github.io/categories/ironchip/</link>
-      <pubDate>Tue, 23 Apr 2019 19:50:47 +0000</pubDate>
+      <title>OT</title>
+      <link>https://ironchiplab.github.io/categories/ot/</link>
+      <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/ironchip/</guid>
+      <guid>https://ironchiplab.github.io/categories/ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry PI</title>
+      <link>https://ironchiplab.github.io/categories/raspberry-pi/</link>
+      <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/categories/raspberry-pi/</guid>
       <description></description>
     </item>
     
@@ -93,42 +138,6 @@
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>https://ironchiplab.github.io/categories/javascript/</link>
-      <pubDate>Mon, 03 Dec 2018 12:31:45 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://ironchiplab.github.io/categories/linux/</link>
-      <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ot</title>
-      <link>https://ironchiplab.github.io/categories/ot/</link>
-      <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/ot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi</title>
-      <link>https://ironchiplab.github.io/categories/raspberry-pi/</link>
-      <pubDate>Fri, 18 Jan 2019 13:00:50 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spring</title>
       <link>https://ironchiplab.github.io/categories/spring/</link>
       <pubDate>Tue, 08 Jan 2019 17:31:59 +0000</pubDate>
@@ -138,20 +147,11 @@
     </item>
     
     <item>
-      <title>Terraform</title>
-      <link>https://ironchiplab.github.io/categories/terraform/</link>
-      <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
+      <title>javascript</title>
+      <link>https://ironchiplab.github.io/categories/javascript/</link>
+      <pubDate>Mon, 03 Dec 2018 12:31:45 +0000</pubDate>
       
-      <guid>https://ironchiplab.github.io/categories/terraform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncategorized</title>
-      <link>https://ironchiplab.github.io/categories/uncategorized/</link>
-      <pubDate>Mon, 10 Jun 2019 17:03:28 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/categories/uncategorized/</guid>
+      <guid>https://ironchiplab.github.io/categories/javascript/</guid>
       <description></description>
     </item>
     

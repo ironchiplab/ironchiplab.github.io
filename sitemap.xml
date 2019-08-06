@@ -3,166 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ironchiplab.github.io/2019/07/08/actualizando-terraform-a-la-version-0-12/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/07/03/guia-docker/</loc>
-    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/06/10/ngrok/</loc>
-    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/05/22/08-curso-go-redes/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/05/15/07-curso-go-gestion-de-proyectos/</loc>
-    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/05/06/preparando-intellij-para-go/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/30/06-curso-go-computacion-concurrente/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/24/05-curso-go-errores/</loc>
-    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/23/navegando-anonimamente-con-i2p/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/16/04-curso-go-orientado-a-objetos/</loc>
-    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/15/git-credential-cache/</loc>
-    <lastmod>2019-04-15T16:12:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/10/03-curso-go-funciones/</loc>
-    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/04/03/02-curso-go-funciones-basicas/</loc>
-    <lastmod>2019-04-03T10:31:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/03/28/conoce-ironchip-la-vasca-de-ciberseguridad-de-la-rsa-conference/</loc>
-    <lastmod>2019-03-28T19:41:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/03/27/01-curso-go-inicio-proyecto/</loc>
-    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/01/18/instalacion-de-node-red-en-una-raspberry-pi/</loc>
-    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</loc>
-    <lastmod>2019-01-08T17:31:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2018/12/03/crea-y-testea-una-api-en-5-minutos-en-js/</loc>
-    <lastmod>2018-12-03T12:31:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/2018/10/25/copy-paste-entre-diferentes-terminales-vim-usando-el-portapapeles-del-sistema/</loc>
-    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ironchiplab.github.io/</loc>
     <lastmod>2019-07-08T12:33:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/author/jamica-jock/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/author/john-doe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/author/somrat/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/anon/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/anonymity/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/anonymity/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/api-rest/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/aprender-go/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/arreglar-cors/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ironchiplab.github.io/2019/07/08/actualizando-terraform-a-la-version-0-12/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ironchiplab.github.io/author/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/blog/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/ibmcloud/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/terraform/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,122 +62,31 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/benchmarks/</loc>
-    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/blog/</loc>
+    <loc>https://ironchiplab.github.io/author/julen/</loc>
     <lastmod>2019-07-08T12:33:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/bussiness/</loc>
-    <lastmod>2019-03-28T19:41:52+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/terraform/</loc>
+    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/categories/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/categories/docker/</loc>
+    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/categories/cibersecurity/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ironchiplab.github.io/2019/07/03/guia-docker/</loc>
+    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/clipboard/</loc>
-    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/como-funciona-go/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/compilar-go/</loc>
-    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/complementos-go-para-intellij/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/copiar/</loc>
-    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/copy/</loc>
-    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/cors/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/cors-go/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/cors-nodejs/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/cpu-profiles/</loc>
-    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/credential-helper/</loc>
-    <lastmod>2019-04-15T16:12:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/credentials/</loc>
-    <lastmod>2019-04-15T16:12:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/curso-go/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/curso-go-castellano/</loc>
-    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/curso-go-espa%C3%B1ol/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/author/miguel-martinez/</loc>
+    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,12 +109,6 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/categories/docker/</loc>
-    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ironchiplab.github.io/tags/docker-exec/</loc>
     <lastmod>2019-07-03T10:42:10+00:00</lastmod>
     <priority>0</priority>
@@ -331,12 +117,6 @@
   <url>
     <loc>https://ironchiplab.github.io/tags/docker-file/</loc>
     <lastmod>2019-07-03T10:42:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/docker-go/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -371,32 +151,8 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/domekey/</loc>
-    <lastmod>2019-03-28T19:41:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ironchiplab.github.io/tags/dummies/</loc>
     <lastmod>2019-07-03T10:42:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/error/</loc>
-    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/error-go/</loc>
-    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/errors.wrap/</loc>
-    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -407,20 +163,19 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/estructuras-go/</loc>
-    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/guide/</loc>
+    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/evitar-cors/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ironchiplab.github.io/2019/06/10/ngrok/</loc>
+    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/express/</loc>
-    <lastmod>2018-12-03T12:31:45+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/categories/uncategorized/</loc>
+    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,37 +186,424 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/for-go/</loc>
-    <lastmod>2019-04-03T10:31:09+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/networking/</loc>
+    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/func-go/</loc>
-    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/ngrok/</loc>
+    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/funciones-basicas-go/</loc>
-    <lastmod>2019-04-03T10:31:09+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/port/</loc>
+    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/funciones-go/</loc>
-    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2019/05/22/08-curso-go-redes/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/linux/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/git/</loc>
+    <loc>https://ironchiplab.github.io/author/xabier-sestafe/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/curso-go/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/curso-go-espa%C3%B1ol/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/go/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-espa%C3%B1ol/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-golang/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-http/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-json/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-redes/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/golang/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/golang-redes/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/redes-go/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/tutorial-espa%C3%B1ol-go/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/tutorial-go/</loc>
+    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/05/15/07-curso-go-gestion-de-proyectos/</loc>
+    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/benchmarks/</loc>
+    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/cpu-profiles/</loc>
+    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/imports/</loc>
+    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/profiles/</loc>
+    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/test-go/</loc>
+    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/05/06/preparando-intellij-para-go/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/complementos-go-para-intellij/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-intellij/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/goland-intellij/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/instalacion-goland-para-intellij/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/plugins-intellij/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/plugins-para-go/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/tutorial-plugins-go/</loc>
+    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/04/30/06-curso-go-computacion-concurrente/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/aprender-go/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/como-funciona-go/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/goroutines-go/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/hilos-go/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/manual-go/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/slices-go/</loc>
+    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/04/24/05-curso-go-errores/</loc>
+    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/errors.wrap/</loc>
+    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-errors/</loc>
+    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/panic-go/</loc>
+    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/recover-go/</loc>
+    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/anonymity/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/cibersecurity/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/author/jose-f-g%C3%B3mez/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/04/23/navegando-anonimamente-con-i2p/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/anon/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/anonymity/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/hidden-ip/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/hide-ip/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/i2p/</loc>
+    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/04/23/golang-y-docker-para-desarrollo-y-produccion/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/docker-go/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-desarrollo/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-development/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-producci%C3%B3n/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/go-production/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/ironchip/</loc>
+    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/04/16/04-curso-go-orientado-a-objetos/</loc>
+    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/estructuras-go/</loc>
+    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/interface-go/</loc>
+    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/metodos-go/</loc>
+    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/orientado-a-objetos/</loc>
+    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/04/15/git-credential-cache/</loc>
+    <lastmod>2019-04-15T16:12:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/credential-helper/</loc>
+    <lastmod>2019-04-15T16:12:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/credentials/</loc>
     <lastmod>2019-04-15T16:12:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ironchiplab.github.io/categories/git/</loc>
+    <lastmod>2019-04-15T16:12:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/git/</loc>
     <lastmod>2019-04-15T16:12:58+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -485,92 +627,90 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/api-rest/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/categories/go/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/cors/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-desarrollo/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2019/04/14/como-hacer-un-proxy-rapido-con-tinyproxy/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-development/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/arreglar-cors/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-errors/</loc>
-    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/cors-go/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-espa%C3%B1ol/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/cors-nodejs/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-golang/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/evitar-cors/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-http/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/proxy/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-intellij/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/tinyproxy/</loc>
+    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-json/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2019/04/10/03-curso-go-funciones/</loc>
+    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/curso-go-castellano/</loc>
+    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-producci%C3%B3n/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/error-go/</loc>
+    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-production/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/func-go/</loc>
+    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/go-redes/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/goland-intellij/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/golang/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/funciones-go/</loc>
+    <lastmod>2019-04-10T11:52:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -581,50 +721,19 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/golang-redes/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2019/04/03/02-curso-go-funciones-basicas/</loc>
+    <lastmod>2019-04-03T10:31:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/for-go/</loc>
+    <lastmod>2019-04-03T10:31:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/goroutines-go/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/guide/</loc>
-    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/hidden-ip/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/hide-ip/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/hilos-go/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/i2p/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/ibmcloud/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/funciones-basicas-go/</loc>
+    <lastmod>2019-04-03T10:31:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -635,32 +744,19 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/imports/</loc>
-    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2019/03/28/conoce-ironchip-la-vasca-de-ciberseguridad-de-la-rsa-conference/</loc>
+    <lastmod>2019-03-28T19:41:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/bussiness/</loc>
+    <lastmod>2019-03-28T19:41:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/instalacion-goland-para-intellij/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/instalar-go/</loc>
-    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/interface-go/</loc>
-    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/iot/</loc>
-    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/domekey/</loc>
+    <lastmod>2019-03-28T19:41:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -671,14 +767,54 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/categories/ironchip/</loc>
-    <lastmod>2019-04-23T19:50:47+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2019/03/27/01-curso-go-inicio-proyecto/</loc>
+    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/compilar-go/</loc>
+    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/instalar-go/</loc>
+    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/problema-go-instalar/</loc>
+    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/que-es-golang/</loc>
+    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2019/01/18/instalacion-de-node-red-en-una-raspberry-pi/</loc>
+    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/iot/</loc>
+    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/ot/</loc>
+    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/raspberry-pi/</loc>
+    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -689,7 +825,23 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/javascript/</loc>
+    <loc>https://ironchiplab.github.io/2019/01/08/prototipado-agil-en-java-parte-1-iniciar-un-proyecto-de-spring-con-maven-jsp-y-login-automatico/</loc>
+    <lastmod>2019-01-08T17:31:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/categories/spring/</loc>
+    <lastmod>2019-01-08T17:31:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/2018/12/03/crea-y-testea-una-api-en-5-minutos-en-js/</loc>
+    <lastmod>2018-12-03T12:31:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/express/</loc>
     <lastmod>2018-12-03T12:31:45+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -701,68 +853,37 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/author/jose-f-g%C3%B3mez/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/javascript/</loc>
+    <lastmod>2018-12-03T12:31:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/author/julen/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/2018/10/25/copy-paste-entre-diferentes-terminales-vim-usando-el-portapapeles-del-sistema/</loc>
+    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/tags/clipboard/</loc>
+    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/categories/linux/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/copiar/</loc>
+    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/manual-go/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/copy/</loc>
+    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/metodos-go/</loc>
-    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/author/miguel-martinez/</loc>
-    <lastmod>2019-07-03T10:42:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/networking/</loc>
-    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/ngrok/</loc>
-    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/orientado-a-objetos/</loc>
-    <lastmod>2019-04-16T16:51:32+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/ot/</loc>
-    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/panic-go/</loc>
-    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
+    <loc>https://ironchiplab.github.io/tags/error/</loc>
+    <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -779,24 +900,6 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/plugins-intellij/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/plugins-para-go/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/port/</loc>
-    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ironchiplab.github.io/tags/portapapeles/</loc>
     <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
@@ -809,123 +912,21 @@
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/tags/problema-go-instalar/</loc>
-    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/profiles/</loc>
-    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/proxy/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/que-es-golang/</loc>
-    <lastmod>2019-03-27T19:23:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/raspberry-pi/</loc>
-    <lastmod>2019-01-18T13:00:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/recover-go/</loc>
-    <lastmod>2019-04-24T11:33:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/redes-go/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/slices-go/</loc>
-    <lastmod>2019-04-30T08:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/spring/</loc>
-    <lastmod>2019-01-08T17:31:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/</loc>
-    <lastmod>2019-04-23T22:11:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/terraform/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/terraform/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/test-go/</loc>
-    <lastmod>2019-05-15T13:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/tinyproxy/</loc>
-    <lastmod>2019-04-14T21:22:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/tutorial-espa%C3%B1ol-go/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/tutorial-go/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/tags/tutorial-plugins-go/</loc>
-    <lastmod>2019-05-06T12:55:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ironchiplab.github.io/categories/uncategorized/</loc>
-    <lastmod>2019-06-10T17:03:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ironchiplab.github.io/tags/vim/</loc>
     <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ironchiplab.github.io/author/xabier-sestafe/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ironchiplab.github.io/author/jamica-jock/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ironchiplab.github.io/author/somrat/</loc>
   </url>
   
 </urlset>

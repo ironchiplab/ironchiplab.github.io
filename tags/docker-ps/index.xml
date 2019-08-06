@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docker Ps on </title>
+    <title>docker ps on </title>
     <link>https://ironchiplab.github.io/tags/docker-ps/</link>
-    <description>Recent content in Docker Ps on </description>
+    <description>Recent content in docker ps on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jul 2019 10:42:10 +0000</lastBuildDate>

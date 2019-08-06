@@ -6,9 +6,55 @@
     <description>Recent content in Author on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2019 12:33:15 +0000</lastBuildDate>
     
 	<atom:link href="https://ironchiplab.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>julen</title>
+      <link>https://ironchiplab.github.io/author/julen/</link>
+      <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/author/julen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Martinez</title>
+      <link>https://ironchiplab.github.io/author/miguel-martinez/</link>
+      <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/author/miguel-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xabier Sestafe</title>
+      <link>https://ironchiplab.github.io/author/xabier-sestafe/</link>
+      <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/author/xabier-sestafe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose F Gómez</title>
+      <link>https://ironchiplab.github.io/author/jose-f-g%C3%B3mez/</link>
+      <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/author/jose-f-g%C3%B3mez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iñaki Amorrortu</title>
+      <link>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</link>
+      <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
+      
+      <guid>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -35,51 +81,6 @@
       
       <guid>https://ironchiplab.github.io/author/somrat/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title>Iñaki Amorrortu</title>
-      <link>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</link>
-      <pubDate>Sun, 14 Apr 2019 21:22:13 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/author/i%C3%B1aki-amorrortu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jose F Gómez</title>
-      <link>https://ironchiplab.github.io/author/jose-f-g%C3%B3mez/</link>
-      <pubDate>Tue, 23 Apr 2019 22:11:56 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/author/jose-f-g%C3%B3mez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julen</title>
-      <link>https://ironchiplab.github.io/author/julen/</link>
-      <pubDate>Mon, 08 Jul 2019 12:33:15 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/author/julen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Miguel Martinez</title>
-      <link>https://ironchiplab.github.io/author/miguel-martinez/</link>
-      <pubDate>Wed, 03 Jul 2019 10:42:10 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/author/miguel-martinez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xabier Sestafe</title>
-      <link>https://ironchiplab.github.io/author/xabier-sestafe/</link>
-      <pubDate>Wed, 22 May 2019 09:55:24 +0000</pubDate>
-      
-      <guid>https://ironchiplab.github.io/author/xabier-sestafe/</guid>
-      <description></description>
     </item>
     
   </channel>
