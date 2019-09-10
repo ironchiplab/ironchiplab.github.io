@@ -4,7 +4,131 @@
   
   <url>
     <loc>https://blog.ironchip.net/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/author/xabier-sestafe/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/author/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/blog/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/categories/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/crear-live-cd/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/crear-live-usb/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/create-live-cd/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/create-live-usb/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/create-ubuntu-live-cd/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/format-usb/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/format-usb-commands/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/formatear-usb/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/formatear-usb-por-comandos-linux/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/formatear-usb-por-comandos-ubuntu/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/2019/09/11/instalacion-live-cd/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/instalaci%C3%B3n-ubuntu-en-usb/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/instalar-pv/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/categories/instalation/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/install-pv/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/categories/linux/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ironchip.net/tags/</loc>
+    <lastmod>2019-09-10T11:42:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,31 +138,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ironchip.net/author/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ironchip.net/blog/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ironchip.net/categories/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ironchip.net/tags/ibmcloud/</loc>
-    <lastmod>2019-07-08T12:33:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ironchip.net/tags/</loc>
     <lastmod>2019-07-08T12:33:15+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -206,18 +306,6 @@
   <url>
     <loc>https://blog.ironchip.net/2019/05/22/08-curso-go-redes/</loc>
     <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.ironchip.net/categories/linux/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ironchip.net/author/xabier-sestafe/</loc>
-    <lastmod>2019-05-22T09:55:24+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -915,10 +1003,6 @@
     <loc>https://blog.ironchip.net/tags/vim/</loc>
     <lastmod>2018-10-25T11:01:52+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ironchip.net/author/jamica-jock/</loc>
   </url>
   
   <url>

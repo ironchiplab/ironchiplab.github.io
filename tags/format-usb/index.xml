@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Format USB on </title>
+    <link>https://blog.ironchip.net/tags/format-usb/</link>
+    <description>Recent content in Format USB on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2019 11:42:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.ironchip.net/tags/format-usb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instalación Live cd</title>
+      <link>https://blog.ironchip.net/2019/09/11/instalacion-live-cd/</link>
+      <pubDate>Tue, 10 Sep 2019 11:42:13 +0000</pubDate>
+      
+      <guid>https://blog.ironchip.net/2019/09/11/instalacion-live-cd/</guid>
+      <description>Bienvenidos hoy veremos como en unos simples pasos, montaremos un Live USB de ubuntu y instalaremos el S.</description>
+    </item>
+    
+  </channel>
+</rss>
